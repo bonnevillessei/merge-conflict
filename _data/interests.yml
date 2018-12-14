@@ -1,12 +1,19 @@
 # Interests
-<<<<<<< HEAD
+<<<<<< add-experience
+- description: Electron, Atom, GraphQL, Webhooks, and most of all... Git
+- description: Movies about a cappella singing 
+- description: Anaheim Theme Parks
+
+<<<<<< HEAD
 - description: Travel
 - description: Animated cartoons involving restuarants and burgers
 - description: Amusement parks
 
-=======
+A bunch of extra stuff I added to really mess with the next guy.
+
 - description: Open Source
 - description: Empowering underrepresented groups in tech through education and free events.
 - description: French Horn
 
->>>>>>> add-that-french-horn-branch
+>>>>>> add-that-french-horn-branch
+>>>>>> master
